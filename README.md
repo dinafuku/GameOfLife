@@ -1,7 +1,7 @@
 # Game of Life  🦠
 
 ## Files  📁
-### BaseGame.cpp, BaseGame.h, Classic.cpp, Classic.h, Doughnut.cpp, Doughnut.h, Mirror.cpp, Mirror.h, Process.cpp, Process.h, Simulation.cpp, Simulation.h, main.cpp, Makefile, .gitignore, README.md
+### BaseGame.cpp, BaseGame.h, Classic.cpp, Classic.h, Doughnut.cpp, Doughnut.h, Mirror.cpp, Mirror.h, Process.cpp, Process.h, Simulation.cpp, Simulation.h, main.cpp, input.txt, Makefile, .gitignore, README.md
 
 ## Usage  💻
 ### Compile: make
